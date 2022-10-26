@@ -1,6 +1,5 @@
-# Portfolio: Data visualisation, analytics and GIS
-### author: "Tony L. Brown"
-
+# Data visualisation, analytics and GIS
+### Tony L. Brown
 
 ## Summary
 
