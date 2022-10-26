@@ -6,7 +6,7 @@
 
 Some examples of data analytics, data visualisation, and GIS work implemented during my time in research. Note that figure titles and axis titles are limited for data sensitivity reasons. I also have experience in data analytics and mapping for an environmental consultancy (RPS group). Specially data related to noise surveys, air quality surveys, habitat surveys and more. Experience in R programming, VBA (Macros), Power BI, Excel, some SQL, NetLogo, QGIS, ArcGIS, MapInfo & AutoCad. 
 
-Figure 1 (below): Global infection prevalence maps and graphs using R programming language with GGPLOT2
+Figure 1 (below): Global infection prevalence maps and graphs using (R programming)
 ![](https://raw.githubusercontent.com/tonysdatamodels/Data_and_GIS/main/docs/Global%20Infection%20Figure.png)
 
 Figure 2 (below): Analysing deer helminth infection data (Power BI)
@@ -17,10 +17,13 @@ Figure 3 (below): Analysing deer helminth infection data (pivot tables on excel)
 
 Figure 4 (below): Comparing infection model outputs with real infection data (R programming)
 ![](https://raw.githubusercontent.com/tonysdatamodels/Data_and_GIS/main/docs/Line%20and%20Bar%20Example.png)
+
 Table 1 (below): Pearson correlation coefficient with P-values used to examine modeled vs real infection data (Excel)
 ![](https://raw.githubusercontent.com/tonysdatamodels/Data_and_GIS/main/docs/Pearsons%20Correlation%20and%20P%20Values.png)
+
 Figure 6 (below): Exploring how livestock contact influences infection rates of different pathogens in deer (R programming) 
 ![](https://raw.githubusercontent.com/tonysdatamodels/Data_and_GIS/main/docs/Livestock%20Contact%20Figure.png)
+
 Figure 7 (below): Heat map indicating deer population infection prevalence with different pathogens (R programming)
 ![](https://raw.githubusercontent.com/tonysdatamodels/Data_and_GIS/main/docs/Deer%20Helminth%20Heatmap%20Example.png)
 
@@ -44,6 +47,7 @@ Figure 12 (below): Deer infection study locations Europe (QGIS)
 
 Figure 13 (below): Saiga antelope winter range and cattle numbers in Kazakhstan (QGIS)
 ![](https://raw.githubusercontent.com/tonysdatamodels/Data_and_GIS/main/docs/Saiga%20Range%20and%20Livestock%20Numbers%20Kazakhstan.png)
+
 Figure 14 (below): Saiga antelope range and goat numbers in Mongolia (QGIS)
 ![](https://raw.githubusercontent.com/tonysdatamodels/Data_and_GIS/main/docs/Saiga%20Range%20and%20Livestock%20Numbers%20Mongolia.png)
 
