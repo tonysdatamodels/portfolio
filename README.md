@@ -18,7 +18,7 @@ Figure 3 (below): Analysing deer helminth infection data (pivot tables on excel)
 Figure 4 (below): Comparing infection model outputs with real infection data (R programming)
 ![](https://raw.githubusercontent.com/tonysdatamodels/Data_and_GIS/main/docs/Line%20and%20Bar%20Example.png)
 
-Table 1 (below): Pearson correlation coefficient with P-values used to examine modeled vs real infection data (Excel)
+Table 1 (below): Pearson correlation coefficient with P-values to examine relationship between modeled infection vs real infection data (Excel)
 ![](https://raw.githubusercontent.com/tonysdatamodels/Data_and_GIS/main/docs/Pearsons%20Correlation%20and%20P%20Values.png)
 
 Figure 6 (below): Exploring how livestock contact influences infection rates of different pathogens in deer (R programming) 
@@ -36,7 +36,7 @@ Figure 8 (below): Distribution of nematode eggs dropped by different deer specie
 Figure 9 (below): Number of nematode eggs dropped by different deer species in the UK and Ireland (R programming) 
 ![](https://raw.githubusercontent.com/tonysdatamodels/Data_and_GIS/main/docs/Nematode%20Egg%20by%20Deer%20Type.png)
 
-Figure 10 (below): Agent Based Model outputs using R programming: Number of helminths transmitted from deer to sheep (R programming)
+Figure 10 (below): Agent Based Model analysis: Number of helminths transmitted from deer to sheep (R programming)
 ![](https://raw.githubusercontent.com/tonysdatamodels/Data_and_GIS/main/docs/Agent%20Based%20Model%20GGPLOT.png)
 
 Figure 11 (below): Spatial infection simulation model roe and fallow deer (NetLogo)
